@@ -7,6 +7,21 @@ Categories: Demo
 
 Hello Viewer, My name is Thomas Gallagher and this is my 3rd years FPGA VGA Verilog project. This project's aim was to display a graphic using Vivado Verilog using a Basys 3 Development Board. My creation was an image of a penguin and I will be discussing the development and problems faced developing this project.
 
+## **Project Development**
+### **Initial Idea's**
+Undertaking this project I had many problems and roadblocks that I had to face and adapt to create a fully functional project. These issues I will be discussing future.
+
+### **ATU Security Updates**
+Recently ATU have updated their network security to avoid and prevent hacks which could corrupt the University. However, this has created problems for students as some students are randomly targetted for breaching security protocols which is untrue. I was one of these cases. 
+
+The second lab we had in SOC, I opened my project and changed some code and started to run my Synthesis. While running my Synthesis vivado shut down and I lost some progress. However, I ran Synthesis two more times and the issue kept occuring. When I consulted with my Lecturer, she gave me different gateways to combate this unwarranted security defence, however, these were warrented ineffective. 
+
+My Leacturer then conntacted the lead administrator, who worked along side me to stop this unwanted defence. 
+
+Three hours after the initial crash we were able to combate the security defence and allow me to start working on my project, however, the lab had finsihed so I was a week behind already.
+
+<img src =""> 
+
 ## **Template VGA Design**
 ### **Project Set-Up**
 Summarise the project set-up and design flow. Include a screenshot of your own set-up, for example see the image of my Project Summary window below. Guideline 1 short paragraph.
