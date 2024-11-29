@@ -39,6 +39,7 @@ I also had the idea to make my penguin spin and dance but I was overly ambitious
 Summarise the project set-up and design flow. Include a screenshot of your own set-up, for example see the image of my Project Summary window below. Guideline 1 short paragraph.
 
 <img src="Screenshot 2024-11-11 171309.png">
+
 ### **Template Code**
 Outline the structure and design of the Verilog code templates you were given. What do they do? Include reference to how a VGA interface works. Guideline: 2/3 short paragraphs, consider including screenshot(s).
 ### **Simulation**
@@ -50,6 +51,10 @@ Perhaps add a picture of your demo. Guideline: 1/2 sentences.
 
 ## **My VGA Design Edit**
 Introduce your own design idea. Consider how complex/achievabble this might be or otherwise. Reference any research you do online (use hyperlinks).
+I created a penguin designed based on design idea's I researched online and found a YouTube video demenstrating a spinning penguin. I then researched images of pixelated penguins to adapt and base my graphic on. Using the ColourStripes.v code given to us by our Leacturer, I was able to understand and manipulate the code to be able to display the graphic. This code had me columns of white and black pixels and manipulate the areas the whcich needed other colours using the rows function to display white and red lines of pixels to create this image. 
+
+<a href="https://youtube.com/shorts/Bjjqv0e9A6A?si=gxAfeC34kaNy-xQb"> 
+<img src="">
 ### **Code Adaptation**
 Briefly show how you changed the template code to display a different image. Demonstrate your understanding. Guideline: 1-2 short paragraphs.
 ### **Simulation**
