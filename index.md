@@ -50,35 +50,34 @@ Describe the synthesis and implementation processes. Consider including 1/2 usef
 Perhaps add a picture of your demo. Guideline: 1/2 sentences.
 
 ## **My VGA Design Edit**
-Introduce your own design idea. Consider how complex/achievabble this might be or otherwise. Reference any research you do online (use hyperlinks).
-I created a penguin designed based on design idea's I researched online and found a YouTube video demenstrating a spinning penguin. I then researched images of pixelated penguins to adapt and base my graphic on. Using the ColourStripes.v code given to us by our Leacturer, I was able to understand and manipulate the code to be able to display the graphic. This code had me columns of white and black pixels and manipulate the areas the whcich needed other colours using the rows function to display white and red lines of pixels to create this image. 
+I created a penguin designed based on design idea's I researched online and found a YouTube video demenstrating a spinning penguin. I then researched images of pixelated penguins to adapt and base my graphic on. Using the ColourStripes.v code given to us by our Leacturer, I was able to understand and manipulate the code to be able to display the graphic. 
+
+This code had me columns of white and black pixels and manipulate the areas the whcich needed other colours using the rows function to display white and red lines of pixels to create this image. 
+
+<img src="IMG_5611.jpeg">
 
 <a href="https://youtube.com/shorts/Bjjqv0e9A6A?si=gxAfeC34kaNy-xQb"> 
-<img src="IMG_5611.jpeg">
-  
+
 ### **Code Adaptation**
 Briefly show how you changed the template code to display a different image. Demonstrate your understanding. Guideline: 1-2 short paragraphs.
+Using the ColourStripes.v code block I was able to create an understanding of the design layout, for example by manipulating either of the three colour blocks, red, blue and green, it would create another colour. If I change each line to all zero's it would create a black graphic and if I cghange them to all one's it would create a white graphic.
+
+Using this knowledge and I was able to understand how the columumns and rows work. If I wanted to display eight colours in stripes I would need to divide the columns by 8, so thats 8 into 640 which would be 80 pixels wide per graphic. This was evident in the ColourStripes.v code given to us. However, to understand how to implemnet rows into the function was tricky to understand but I had managed to figure it out.
+
+For example if I wanted to display a small 15x15 white pixel square in the top left corner, I would first create a white column of that size and then create a row to stop end of the column.
+
+This is the code shown:
+
+if(col >= 11'd0 && col <11'd15 && row >= 11'd0 && row < 11'd15)
+   begin
+      red_next   <= 4'b1111;
+      green_next <= 4'b1111;
+      blue_next  <= 4'b1111;
+   end
+
 ### **Simulation**
 Show how you simulated your own design. Are there any things to note? Demonstrate your understanding. Add a screenshot. Guideline: 1-2 short paragraphs.
 ### **Synthesis**
 Describe the synthesis & implementation outputs for your design, are there any differences to that of the original design? Guideline 1-2 short paragraphs.
 ### **Demonstration**
 If you get your own design working on the Basys3 board, take a picture! Guideline: 1-2 sentences.
-
-## **More Markdown Basics**
-This is a paragraph. Add an empty line to start a new paragraph.
-
-Font can be emphasised as *Italic* or **Bold**.
-
-Code can be highlighted by using `backticks`.
-
-Hyperlinks look like this: [GitHub Help](https://help.github.com/).
-
-A bullet list can be rendered as follows:
-- vectors
-- algorithms
-- iterators
-
-Images can be added by uploading them to the repository in a /docs/assets/images folder, and then rendering using HTML via githubusercontent.com as shown in the example below.
-
-<img src="https://raw.githubusercontent.com/melgineer/fpga-vga-verilog/main/docs/assets/images/VGAPrjSrcs.png">
