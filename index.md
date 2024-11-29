@@ -9,7 +9,7 @@ Hello Viewer, My name is Thomas Gallagher and this is my 3rd years FPGA VGA Veri
 
 ## **Project Development**
 ### **Initial Idea's**
-Undertaking this project I had many problems and roadblocks that I had to face and adapt to create a fully functional project. These issues I will be discussing future.
+Undertaking this project I had many problems and roadblocks that I had to face and adapt to create a fully functional project. These issues I will be discussing further.
 
 ### **ATU Security Updates**
 Recently ATU have updated their network security to avoid and prevent hacks which could corrupt the University. However, this has created problems for students as some students are randomly targetted for breaching security protocols which is untrue. I was one of these cases. 
@@ -21,6 +21,18 @@ My Leacturer then conntacted the lead administrator, who worked along side me to
 Three hours after the initial crash we were able to combate the security defence and allow me to start working on my project, however, the lab had finsihed so I was a week behind already.
 
 <img src ="Screenshot 2024-11-29 134949.png"> 
+
+### **Failed Idea's**
+
+As I was a week behind due to the Security measures I had to create and code a design in shorter times than my peers while also creating a project that is unique and complicated, while showing my understanding of the task at hand. 
+
+I decided to create a bouncing DVD logo, that would be a rendition of the old DVD logo when the screen was paused for too long. I was able to create a 50x50 square that changes colour but would just rotate colours not change on a bounce off the screen but the major problem I had was making the square move. I stayed back after classes and late into the evenings researching and applying new techniques, but was unable to move the square.
+
+This lead to the scrapping of this idea. 
+
+<img src="">
+
+I also had the idea to make my penguin spin and dance but I was overly ambitious and it was more challenging and time-intensive then initially anticipated. 
 
 ## **Template VGA Design**
 ### **Project Set-Up**
