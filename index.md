@@ -54,7 +54,8 @@ Introduce your own design idea. Consider how complex/achievabble this might be o
 I created a penguin designed based on design idea's I researched online and found a YouTube video demenstrating a spinning penguin. I then researched images of pixelated penguins to adapt and base my graphic on. Using the ColourStripes.v code given to us by our Leacturer, I was able to understand and manipulate the code to be able to display the graphic. This code had me columns of white and black pixels and manipulate the areas the whcich needed other colours using the rows function to display white and red lines of pixels to create this image. 
 
 <a href="https://youtube.com/shorts/Bjjqv0e9A6A?si=gxAfeC34kaNy-xQb"> 
-<img src="">
+<img src="IMG_5611.jpeg">
+  
 ### **Code Adaptation**
 Briefly show how you changed the template code to display a different image. Demonstrate your understanding. Guideline: 1-2 short paragraphs.
 ### **Simulation**
