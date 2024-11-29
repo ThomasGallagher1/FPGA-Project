@@ -5,8 +5,7 @@ Tags: FPGA VGA Verilog
 Categories: Demo
 ---
 
-Add a short welcome message or introduction here. Aim to get the viewer interested in what follows! Guideline: 1 or 2 sentences.
-Hello Veiwer, My name is Thomas Gallagher and this is my 3rd years FPGA VGA Verilog project. This project's aim was to display a graphic using Vivado Verilog using a Basys 3 Development Board. My creation was an image of a penguin and I will be discussing the development and problems faced developing this project.
+Hello Viewer, My name is Thomas Gallagher and this is my 3rd years FPGA VGA Verilog project. This project's aim was to display a graphic using Vivado Verilog using a Basys 3 Development Board. My creation was an image of a penguin and I will be discussing the development and problems faced developing this project.
 
 ## **Template VGA Design**
 ### **Project Set-Up**
