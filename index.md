@@ -20,7 +20,7 @@ My Leacturer then conntacted the lead administrator, who worked along side me to
 
 Three hours after the initial crash we were able to combate the security defence and allow me to start working on my project, however, the lab had finsihed so I was a week behind already.
 
-<img src =""> 
+<img src ="Screenshot 2024-11-29 134949.png"> 
 
 ## **Template VGA Design**
 ### **Project Set-Up**
