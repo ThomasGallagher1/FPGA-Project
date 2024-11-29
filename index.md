@@ -69,11 +69,11 @@ For example if I wanted to display a small 15x15 white pixel square in the top l
 This is the code shown:
 
 if(col >= 11'd0 && col <11'd15 && row >= 11'd0 && row < 11'd15)
-   begin
-      red_next   <= 4'b1111;
-      green_next <= 4'b1111;
-      blue_next  <= 4'b1111;
-   end
+begin
+red_next   <= 4'b1111;
+green_next <= 4'b1111;
+blue_next  <= 4'b1111;
+end
 
 ### **Simulation**
 Show how you simulated your own design. Are there any things to note? Demonstrate your understanding. Add a screenshot. Guideline: 1-2 short paragraphs.
