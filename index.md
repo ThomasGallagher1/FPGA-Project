@@ -55,10 +55,7 @@ I created a penguin designed based on design idea's I researched online and foun
 
 This code had me columns of white and black pixels and manipulate the areas the whcich needed other colours using the rows function to display white and red lines of pixels to create this image. 
 
-
-
-<img src="IMG_56252.jpeg">
-
+<img src="IMG_5611.jpeg">
 
 YouTube video = "FPGA VGA output implement" by TaoTao
 
@@ -95,5 +92,6 @@ Describe the synthesis & implementation outputs for your design, are there any d
 ### **Demonstration**
 If you get your own design working on the Basys3 board, take a picture! Guideline: 1-2 sentences.
 
+<img src="IMG_56252.jpeg">
 
-<img src="IMG_5611.jpeg">
+
