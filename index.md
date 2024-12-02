@@ -55,7 +55,6 @@ I created a penguin designed based on design idea's I researched online and foun
 This code had me columns of white and black pixels and manipulate the areas the whcich needed other colours using the rows function to display white and red lines of pixels to create this image. 
 
 <img src="IMG_5611.jpeg">
-
 <a href="https://youtube.com/shorts/Bjjqv0e9A6A?si=gxAfeC34kaNy-xQb"> 
 
 ### **Code Adaptation**
