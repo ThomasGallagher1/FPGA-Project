@@ -87,5 +87,6 @@ Show how you simulated your own design. Are there any things to note? Demonstrat
 <img src ="Screenshot 2024-12-02 165928.png"> 
 ### **Synthesis**
 Describe the synthesis & implementation outputs for your design, are there any differences to that of the original design? Guideline 1-2 short paragraphs.
+<img src ="Screenshot 2024-12-02 172516.png">
 ### **Demonstration**
 If you get your own design working on the Basys3 board, take a picture! Guideline: 1-2 sentences.
