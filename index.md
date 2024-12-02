@@ -33,6 +33,8 @@ This lead to the scrapping of this idea.
 
 ![DVD logo Bouncing](https:/raw/githubusercontent.com/ThomasGallagher1/FPGA-Project/main/AYwrUq.gif)
 
+<img src ="AYwrUq.gif"> 
+
 I also had the idea to make my penguin spin and dance but I was overly ambitious and it was more challenging and time-intensive then initially anticipated. 
 
 ## **Template VGA Design**
