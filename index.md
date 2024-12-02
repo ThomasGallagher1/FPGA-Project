@@ -39,6 +39,8 @@ I also had the idea to make my penguin spin and dance but I was overly ambitious
 ### **Project Set-Up**
 Summarise the project set-up and design flow. Include a screenshot of your own set-up, for example see the image of my Project Summary window below. Guideline 1 short paragraph.
 
+To set up our project we had initialy been given code to demenstrate a colour cycle which would roate between 8 colour cycles. 
+
 <img src="Screenshot 2024-11-11 171309.png">
 
 ### **Template Code**
