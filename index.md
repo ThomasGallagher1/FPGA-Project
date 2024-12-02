@@ -85,13 +85,11 @@ Describe the synthesis & implementation outputs for your design, are there any d
 
 <img src ="Screenshot 2024-12-02 172516.png">
 
-<img src="IMG_56262.jpeg">
-
 <img src="IMG_56272.jpeg">
+
+<img src="IMG_56262.jpeg">
 
 ### **Demonstration**
 If you get your own design working on the Basys3 board, take a picture! Guideline: 1-2 sentences.
 
 <img src="IMG_56252.jpeg">
-
-
