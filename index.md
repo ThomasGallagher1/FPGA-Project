@@ -31,7 +31,7 @@ I decided to create a bouncing DVD logo, that would be a rendition of the old DV
 
 This lead to the scrapping of this idea. 
 
-<img src="">
+![DVD logo Bouncing](https:/raw/githubusercontent.com/ThomasGallagher1/FPGA-Project/main/AYwrUq.gif)
 
 I also had the idea to make my penguin spin and dance but I was overly ambitious and it was more challenging and time-intensive then initially anticipated. 
 
