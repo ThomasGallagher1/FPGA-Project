@@ -22,6 +22,10 @@ Three hours after the initial crash we were able to combate the security defence
 
 <img src ="Screenshot 2024-11-29 134949.png"> 
 
+<img src ="Screenshot 2024-11-29 171309.png"> 
+
+<img src ="Screenshot 2024-11-29 165928.png"> 
+
 ### **Failed Idea's**
 
 As I was a week behind due to the Security measures I had to create and code a design in shorter times than my peers while also creating a project that is unique and complicated, while showing my understanding of the task at hand. 
@@ -56,6 +60,11 @@ This code had me columns of white and black pixels and manipulate the areas the 
 
 <img src="IMG_5611.jpeg">
 
+<img src="IMG_5625.jpeg">
+
+<img src="IMG_5626.jpeg">
+
+<img src="IMG_5627.jpeg">
 
 Youtube video = "FPGA VGA output implement" by TaoTao
 
