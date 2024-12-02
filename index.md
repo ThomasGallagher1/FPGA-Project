@@ -57,7 +57,7 @@ This code had me columns of white and black pixels and manipulate the areas the 
 <img src="IMG_5611.jpeg">
 
 
-[GitHub Help](<a href="https://youtube.com/shorts/Bjjqv0e9A6A?si=gxAfeC34kaNy-xQb">)
+<image src ="https://youtube.com/embed/Bjjqv0e9A6A?si=gxAfeC34kaNy-xQb">
 
 ### **Code Adaptation**
 Briefly show how you changed the template code to display a different image. Demonstrate your understanding. Guideline: 1-2 short paragraphs.
