@@ -50,7 +50,7 @@ Describe the synthesis and implementation processes. Consider including 1/2 usef
 ### **Demonstration**
 Perhaps add a picture of your demo. Guideline: 1/2 sentences.
 
-<img src ="IMG_5512(1).gif">
+<img src ="IMG_5512 (1).gif">
 
 ## **My VGA Design Edit**
 I created a penguin designed based on design idea's I researched online and found a YouTube video demenstrating a spinning penguin. I then researched images of pixelated penguins to adapt and base my graphic on. Using the ColourStripes.v code given to us by our Leacturer, I was able to understand and manipulate the code to be able to display the graphic. 
