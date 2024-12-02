@@ -57,7 +57,7 @@ This code had me columns of white and black pixels and manipulate the areas the 
 
 
 
-<img src="IMG_5625.jpeg">
+<img src="IMG_56252.jpeg">
 
 
 YouTube video = "FPGA VGA output implement" by TaoTao
@@ -88,11 +88,12 @@ Describe the synthesis & implementation outputs for your design, are there any d
 
 <img src ="Screenshot 2024-12-02 172516.png">
 
-<img src="IMG_5611.jpeg">
+<img src="IMG_56262.jpeg">
 
-<img src="IMG_5627.jpeg">
+<img src="IMG_56272.jpeg">
 
 ### **Demonstration**
 If you get your own design working on the Basys3 board, take a picture! Guideline: 1-2 sentences.
 
-<img src="IMG_5626.jpeg">
+
+<img src="IMG_5611.jpeg">
