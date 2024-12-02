@@ -21,10 +21,7 @@ My Leacturer then conntacted the lead administrator, who worked along side me to
 Three hours after the initial crash we were able to combate the security defence and allow me to start working on my project, however, the lab had finsihed so I was a week behind already.
 
 <img src ="Screenshot 2024-11-29 134949.png"> 
-
-<img src ="Screenshot 2024-11-29 171309.png"> 
-
-<img src ="Screenshot 2024-11-29 165928.png"> 
+ 
 
 ### **Failed Idea's**
 
@@ -42,7 +39,7 @@ I also had the idea to make my penguin spin and dance but I was overly ambitious
 ### **Project Set-Up**
 Summarise the project set-up and design flow. Include a screenshot of your own set-up, for example see the image of my Project Summary window below. Guideline 1 short paragraph.
 
-<img src="Screenshot 2024-11-11 171309.png">
+<img src="Screenshot 2024-12-02 171309.png">
 
 ### **Template Code**
 Outline the structure and design of the Verilog code templates you were given. What do they do? Include reference to how a VGA interface works. Guideline: 2/3 short paragraphs, consider including screenshot(s).
@@ -66,7 +63,7 @@ This code had me columns of white and black pixels and manipulate the areas the 
 
 <img src="IMG_5627.jpeg">
 
-Youtube video = "FPGA VGA output implement" by TaoTao
+YouTube video = "FPGA VGA output implement" by TaoTao
 
 ### **Code Adaptation**
 Briefly show how you changed the template code to display a different image. Demonstrate your understanding. Guideline: 1-2 short paragraphs.
@@ -87,6 +84,7 @@ end
 
 ### **Simulation**
 Show how you simulated your own design. Are there any things to note? Demonstrate your understanding. Add a screenshot. Guideline: 1-2 short paragraphs.
+<img src ="Screenshot 2024-12-02 165928.png"> 
 ### **Synthesis**
 Describe the synthesis & implementation outputs for your design, are there any differences to that of the original design? Guideline 1-2 short paragraphs.
 ### **Demonstration**
