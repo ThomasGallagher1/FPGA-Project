@@ -88,20 +88,30 @@ green_next <= 4'b1111;
 blue_next  <= 4'b1111;
 end
 
+<img src="IMG_56272.jpeg">
+
+
+
 ### **Simulation**
 Show how you simulated your own design. Are there any things to note? Demonstrate your understanding. Add a screenshot. Guideline: 1-2 short paragraphs.
 
-<img src ="Screenshot 2024-12-02 165928.png"> 
+
 ### **Synthesis**
-Describe the synthesis & implementation outputs for your design, are there any differences to that of the original design? Guideline 1-2 short paragraphs.
+
+The code had created many gates to be able to produce the nessessary three VGA colours for synthesis, which are VGARed, VGAGreen, VGABlue.
+
+<img src ="Screenshot 2024-12-02 165928.png"> 
+
+Vivado was smart enough to figure out I was only using White, Red and Black as my colour schemes so it created a chip for creating Red on its own, and also created a VGAGreen chip as it reads in the VGAGreen and VGABlue missing which is needed to initialize the colour black. 
 
 <img src ="Screenshot 2024-12-02 172516.png">
-
-<img src="IMG_56272.jpeg">
-
-<img src="IMG_56262.jpeg">
 
 ### **Demonstration**
 If you get your own design working on the Basys3 board, take a picture! Guideline: 1-2 sentences.
 
+After a long task I was able to completely understand the code needed to code the columns and rows needed to display the Penguin. For example Column 303, I had to code the row into 6 seperate blocks.
+465-415 Black, 415-95 White, 95-85 Red, 85-60 Black, 60-50 White and 50-15 Black
+
 <img src="IMG_56252.jpeg">
+
+<img src="IMG_56262.jpeg">
