@@ -107,8 +107,6 @@ Vivado was smart enough to figure out I was only using White, Red and Black as m
 <img src ="Screenshot 2024-12-02 172516.png">
 
 ### **Demonstration**
-If you get your own design working on the Basys3 board, take a picture! Guideline: 1-2 sentences.
-
 After a long task I was able to completely understand the code needed to code the columns and rows needed to display the Penguin. For example Column 303, I had to code the row into 6 seperate blocks.
 465-415 Black, 415-95 White, 95-85 Red, 85-60 Black, 60-50 White and 50-15 Black
 
