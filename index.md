@@ -45,12 +45,20 @@ To set up our project we had initialy been given code to demenstrate a colour cy
 
 ### **Template Code**
 Outline the structure and design of the Verilog code templates you were given. What do they do? Include reference to how a VGA interface works. Guideline: 2/3 short paragraphs, consider including screenshot(s).
+
+A template Verilog design code for a Colour Cycle graphic was provided by the leacturer to demonstrate how to intertwine different aspects of code and functions to create a VGA graphic. The timings and graphics provided display 8 colours displaying for a second each before repeating. The example code included VGATop.v, VGASync.v and VGAColourCycle.v, which are the design sources, Testbench.v was provided which was used in our simulation sources. Basys3_Master.xdc was also provided as it is needed to run code on a Basys3 development board. These example codes were the bases for developing my project.
+
 ### **Simulation**
 Explain the simulation process. Reference any important details, include a well-selected screenshot of the simulation. Guideline: 1/2 short paragraphs.
+
+
+
 ### **Synthesis**
 Describe the synthesis and implementation processes. Consider including 1/2 useful screenshot(s). Guideline: 1/2 short paragraphs.
+
+
 ### **Demonstration**
-Perhaps add a picture of your demo. Guideline: 1/2 sentences.
+As you can see with the video below, the project was a success and it rotated between each colour and reset and rotated again as intended.
 
 <img src ="IMG_5512 (1).gif">
 
