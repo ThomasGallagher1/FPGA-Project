@@ -53,11 +53,12 @@ This ColourCycle project provided uses a state machine which changes states ever
 ### **Simulation**
 Explain the simulation process. Reference any important details, include a well-selected screenshot of the simulation. Guideline: 1/2 short paragraphs.
 
-
+<img src="Screenshot 2024-12-05 170301.png">
 
 ### **Synthesis**
 Describe the synthesis and implementation processes. Consider including 1/2 useful screenshot(s). Guideline: 1/2 short paragraphs.
 
+<img src="Screenshot 2024-12-05 170325.png">
 
 ### **Demonstration**
 As you can see with the video below, the project was a success and it rotated between each colour and reset and rotated again as intended.
