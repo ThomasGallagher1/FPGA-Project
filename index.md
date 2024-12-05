@@ -48,6 +48,8 @@ Outline the structure and design of the Verilog code templates you were given. W
 
 A template Verilog design code for a Colour Cycle graphic was provided by the leacturer to demonstrate how to intertwine different aspects of code and functions to create a VGA graphic. The timings and graphics provided display 8 colours displaying for a second each before repeating. The example code included VGATop.v, VGASync.v and VGAColourCycle.v, which are the design sources, Testbench.v was provided which was used in our simulation sources. Basys3_Master.xdc was also provided as it is needed to run code on a Basys3 development board. These example codes were the bases for developing my project.
 
+This ColourCycle project provided uses a state machine which changes states every half second. Included in the ColourCycle code it shows us how to create each colour availible to us. This includes Black, Red, Yellow, Green, Cyan, Blue, Magenta and White, which are all made possible due to VGARed, VGAGreen and VGABlue. 
+
 ### **Simulation**
 Explain the simulation process. Reference any important details, include a well-selected screenshot of the simulation. Guideline: 1/2 short paragraphs.
 
@@ -89,11 +91,6 @@ blue_next  <= 4'b1111;
 end
 
 <img src="IMG_56272.jpeg">
-
-
-
-### **Simulation**
-Show how you simulated your own design. Are there any things to note? Demonstrate your understanding. Add a screenshot. Guideline: 1-2 short paragraphs.
 
 
 ### **Synthesis**
